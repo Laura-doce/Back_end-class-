@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "bootscamps_20898754",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
